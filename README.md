@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on ...DUNNO
-- 📫 How to reach me Sahilgader6@gmail.com
+- 📫 How to reach me Sahilgader6@phenomit.com
 
 <!---
 GoD-ATHEN/GoD-ATHEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
